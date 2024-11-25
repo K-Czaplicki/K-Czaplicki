@@ -7,7 +7,6 @@
 
 - I'm a member of a CTF team [ProblemsOnly](https://ctftime.org/team/273179). We are currently top 6 in Poland. My favourite types of challenges are:
   - OSINT
-  - Cryptography
   - Steganography 
   - Forensics
 
