@@ -5,7 +5,7 @@
 
 - I’m a third-year cybersecurity student.
 
-- I'm a member of a CTF team [Securani](https://ctftime.org/team/360303). We are currently top 6 in Poland. My favourite types of challenges are:
+- I'm a member of a CTF team [Securani](https://ctftime.org/team/360303). We are currently top 3 in Poland. My favourite types of challenges are:
   - OSINT
   - Steganography 
   - Forensics
