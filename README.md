@@ -3,13 +3,7 @@
 <img width="45%" align="right" alt="Github" src="assests/github_profile.gif" />
 
 
-- I’m a third-year cybersecurity student.
-
-- I'm a member of a CTF team [Securani](https://securani.com). We are currently top 3 in Poland. My favourite types of challenges are:
-  - Steganography 
-  - Forensics
-  - Crypto
-  - OSINT
+- Pentester.
 
 - I’m trying to learn new things everyday. 
 
